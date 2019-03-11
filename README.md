@@ -3,8 +3,12 @@ Simple Api call and data Visualization for minimum purposes.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5. For running the application install node packages
  
+ 
  Run npm install
- Run npm start for for the dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files. 
+ 
+ Run npm start 
+ 
+ For the dev server navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files. 
 
 ## Build
 
